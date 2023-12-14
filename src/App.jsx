@@ -1,6 +1,8 @@
 import "./App.css";
 import Contatos from "./Components/Contatos/Contatos";
 import NavBar from "./Components/NavBar/NavBar";
+import Logo from "../src/assets/6.png";
+import ImagemEquipe from '../src/assets/equipe.jpeg';
 
 function App() {
   return (
@@ -10,7 +12,7 @@ function App() {
           <NavBar />
         </div>
         <div className="LogoTitle">
-          <img src="src/assets/6.png" alt="" width="70px" />
+          <img src={Logo} alt="" width="70px" />
         </div>
         <div className="Title">
           <h2>Olá Somos a EpiControl</h2>
@@ -46,7 +48,7 @@ function App() {
           </div>
 
           <div className="backImage">
-            <img src="src/assets/WhatsApp Image 2023-12-07 at 17.14.01.jpeg" alt="" width="80%" />
+            <img src={ImagemEquipe} alt="" width="80%" />
           </div>
         </div>
         <Contatos />

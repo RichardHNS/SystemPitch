@@ -39,8 +39,11 @@ width: 90%;
 .backImage{
   display: flex;
   justify-content: center;
+  margin-bottom: 2rem;
 }
-
+.backImage img{
+  border-radius: 1rem;
+}
 .hr1{
   border: 2px solid #151a5f;
   width: 80%;
