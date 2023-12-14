@@ -1,6 +1,6 @@
 import React from "react";
 import NavBar from "../../Components/NavBar/NavBar";
-import "./solucao.css";
+import "./Solucao.css";
 import Contatos from "../../Components/Contatos/Contatos";
 
 const Solucao = () => {
