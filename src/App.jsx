@@ -2,7 +2,7 @@ import "./App.css";
 import Contatos from "./Components/Contatos/Contatos";
 import NavBar from "./Components/NavBar/NavBar";
 import Logo from "../src/assets/6.png";
-import ImagemEquipe from '../src/assets/equipe.jpeg';
+import ImagemEquipe from "../src/assets/equipe.jpeg";
 
 function App() {
   return (
@@ -17,11 +17,13 @@ function App() {
         <div className="Title">
           <h2>Olá Somos a EpiControl</h2>
           <p>
-            Uma StartUp de inovação, criada por agentes inovadores com um
-            objeivo, traze uma cultura de segurança para as micro e pequenas
-            empresas.
+            Uma Startup inovadora criada por agentes de inovação com o objetivo
+            de fomentar a cultura de segurança nas micro e pequenas empresas.
           </p>
-          <a href="https://forms.gle/1yEQz978NvMEvPfi6" target="_blank"> Clique Aqui</a>
+          <a href="https://forms.gle/1yEQz978NvMEvPfi6" target="_blank">
+            {" "}
+            Clique Aqui
+          </a>
           <span>Apenas no final da apresentação</span>
           <hr className="hr1" />
           <div className="ContEquipe">

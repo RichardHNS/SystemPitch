@@ -13,14 +13,14 @@ const Contatos = () => {
             <div>
               <p>E-mail: </p>
               <a
-                href="https://mail.google.com/mail/?view=cm&fs=1&to=epicontrol@gmail.com"
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=epicontrol.sst@gmail.com.com"
                 target="_blank">
                 epicontrol@gmail.com
               </a>
             </div>
             <div>
                 <p>Número :</p>
-                <a href="tel:+123456789" target="_blank">55+ 81 9 8185-8196</a>
+                <a href="tel:+55 81 981858196" target="_blank">55+ 81 9 8185-8196</a>
             </div>
           </div>
           <h4 className="Titleh4">Apoio</h4>

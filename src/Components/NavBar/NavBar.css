@@ -9,11 +9,12 @@
     font-size: 12px;
 }
 .NavBar a{
-    text-decoration: none;
     color: white;
-    cursor: pointer;
+    
 }
 .NavBar li{
     list-style: none;
+    cursor: pointer;
+    text-decoration: underline;
   }
   
