@@ -1,0 +1,43 @@
+.ContainerContatos{
+    background-color: #151a5f ;
+    color: white;
+    padding: 1rem;
+    width: 100%;
+    
+}
+
+
+.Cont{
+    display: flex;
+    flex-direction: column;
+    
+}
+.FormCont{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.FormCont a{
+    color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.contH3{
+    text-align: center;
+    margin-top: 2rem;
+    color: white !important;
+    
+}
+.Apoio{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 1rem;
+}
+.Titleh4{
+    text-align: center;
+    margin-top: 2rem;
+}

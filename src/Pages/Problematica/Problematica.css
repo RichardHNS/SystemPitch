@@ -1,0 +1,33 @@
+.contProblema{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #151a5f;
+    padding-bottom: 2rem;
+}
+.contProblema h2{
+    color: white !important;
+    text-align: center;
+    margin-top: 2rem;
+}
+.ProbH2{
+    color: white !important;
+}
+
+.Acidente{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    gap: 2rem;
+    color: white;
+}
+.Acidente ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    
+}

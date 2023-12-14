@@ -1,0 +1,65 @@
+
+
+.TextSolucao h2{
+    color: #151a5f !important;
+    text-align: center;
+    margin-top: 2rem;
+    
+}
+
+.TextSolucao p{
+    width: 89%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+.TextSolucao{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+    padding-bottom: 3rem;
+    background-color: white;
+}
+.Como{
+    background-color: #151a5f;
+    
+    margin-top: 2rem;
+}
+.Como h3{
+    text-align: center;
+    color: white;
+}
+.PComo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.PComo p{
+    color: white;
+    width: 89%;
+    text-align: center;
+}
+.contValor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 2rem;
+    background-color: white;
+}
+.contValor h3{
+    color: #151a5f;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.contValor p {
+    width: 89%;
+    text-align: center;
+    margin-top: 0.5rem;
+}
