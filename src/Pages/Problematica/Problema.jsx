@@ -1,6 +1,7 @@
 import React from "react";
 import NavBar from "../../Components/NavBar/NavBar";
 import "./Problematica.css";
+import Acidente from "/src/assets/Acidente.png"
 
 const Problema = () => {
   return (
@@ -17,7 +18,7 @@ const Problema = () => {
             <li>Ausência de uma cultura de segurança eficiente nas micro e pequenas empresas.</li>
           </ul>
           <img
-            src="src/assets/Acidente.png"
+            src={Acidente}
             alt=""
             width="300px"
             height="200px"

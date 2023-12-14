@@ -26,7 +26,7 @@ function App() {
           <hr className="hr1" />
           <div className="ContEquipe">
             <h3>Equipe</h3>
-            <ul>
+            <ul className="ContUl">
               <p>Integrantes</p>
               <li>
                 {" "}

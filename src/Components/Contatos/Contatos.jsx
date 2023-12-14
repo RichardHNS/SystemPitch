@@ -1,5 +1,7 @@
 import React from "react";
 import "./Contatos.css";
+import fundacentro from "/src/assets/image 8.png"
+import Sebrae from "/src/assets/image 9.png"
 
 const Contatos = () => {
   return (
@@ -23,8 +25,8 @@ const Contatos = () => {
           </div>
           <h4 className="Titleh4">Apoio</h4>
           <div className="Apoio">
-            <img src="src/assets/image 8.png" alt="" width="40px"/>
-            <img src="src/assets/image 9.png" alt="" width="45px"/>
+            <img src={fundacentro} alt="" width="40px"/>
+            <img src={Sebrae} alt="" width="45px"/>
           </div>
         </div>
       </div>

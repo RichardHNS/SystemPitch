@@ -2,6 +2,8 @@ import React from "react";
 import NavBar from "../../Components/NavBar/NavBar";
 import "./Solu.css";
 import Contatos from "../../Components/Contatos/Contatos";
+import gerencia from "/src/assets/image-removebg.png";
+import Automacao from "/src/assets/Automação-removebg-preview.png"
 
 const Solucao = () => {
   return (
@@ -11,7 +13,7 @@ const Solucao = () => {
         <div className="TextSolucao">
           <h2>Qual a nossa solução?</h2>
           <img
-            src="src/assets/Automação-removebg-preview.png"
+            src={Automacao}
             alt=""
             width="200px"
           />
@@ -42,7 +44,7 @@ const Solucao = () => {
         </div>
         <div className="contValor">
           <h3>Valor Agregado</h3>
-          <img src="src/assets/image-removebg.png" alt="" width="200px" />
+          <img src={gerencia} alt="" width="200px" />
           <p>
             Facilitação da gestão centralizada de EPI's da segurança da empresa
             propocionando maior eficiência operacional e redução de riscos de
