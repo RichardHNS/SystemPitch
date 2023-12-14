@@ -37,15 +37,6 @@ width: 90%;
   margin-top: 2rem;
 }
 
-.backImage{
-  width: 90%;
-    height: 25vh; /* 100% da altura da viewport */
-    background-image: url('src/assets/WhatsApp Image 2023-12-07 at 17.14.01.jpeg'); /* Substitua com o caminho real da sua imagem */
-    background-size: cover; /* Ajusta o tamanho da imagem para cobrir toda a div */
-    background-position: center; /* Centraliza a imagem na div */
-    background-repeat: no-repeat;
-    margin-bottom: 2rem;
-}
 
 .hr1{
   border: 2px solid #151a5f;

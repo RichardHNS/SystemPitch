@@ -45,7 +45,9 @@ function App() {
             </ul>
           </div>
 
-          <div className="backImage"></div>
+          <div className="backImage">
+            <img src="src/assets/WhatsApp Image 2023-12-07 at 17.14.01.jpeg" alt="" width="80%" />
+          </div>
         </div>
         <Contatos />
       </div>
