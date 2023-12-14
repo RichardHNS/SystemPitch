@@ -36,7 +36,10 @@ width: 90%;
   justify-content: center;
   margin-top: 2rem;
 }
-
+.backImage{
+  display: flex;
+  justify-content: center;
+}
 
 .hr1{
   border: 2px solid #151a5f;
