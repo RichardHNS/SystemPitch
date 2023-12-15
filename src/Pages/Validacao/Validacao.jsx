@@ -19,6 +19,12 @@ const Validacao = () => {
             EPIs. Além disso, o setor está em 4° dentre as empresas que mais
             fecham no país (fonte: SEBRAE, 2016)
           </p>
+          <div className="">
+            <ul>
+              <li></li>
+              <li></li>
+            </ul>
+          </div>
         </div>
         <div className="ValidaSolu">
           <h2>Validação da solução</h2>
@@ -60,7 +66,7 @@ const Validacao = () => {
               poderemos evoluir a solução, adquirindo maturidade no mercado e
               reinvestindo o retorno nos nossos serviços.
             </p>
-            <img src={Network} alt="" width="300px" />
+            <img className="imgNet" src={Network} alt="" width="300px" />
             <p>
               É essencial que durante o processo de produção do MVP tenhamos
               algum investimento financeiro, de networking, apoio técnico ou de
