@@ -43,18 +43,18 @@ const Problema = () => {
             </ul>
           </div>
           <div className="PesqValida">
-              <p className="PTitle">Formulario do problema</p>
-              <p className="PForm">Criamos um formulario para a validação do problema, Abaixo os dados apurados:</p>
+              <p className="PTitle">Formulário do problema</p>
+              <p className="PForm">Para a validação do problema, entramos em contato com 12 profissionais de SST. Abaixo segue os dados apurados:</p>
               <div className="Q1">
                 <h5>Reclamações mais frequentes ouvidas pelos gestores:</h5>
                 <img src={Reclamacao} alt="" width="300px" />
               </div>
               <div className="Q2">
-              <h5>Maiores desafios na área de Segurança no trabalho:</h5>
+              <h5>Maiores desafios na área de Segurança do Trabalho:</h5>
                 <img src={Desafios} alt="" width="300px" />
               </div>
               <div className="Q3">
-              <h5>Eficacia de um controle de Epis na prevenção de Acidentes:</h5>
+              <h5>Eficácia de um controle de Epis na prevenção de Acidentes:</h5>
                 <img src={Eficacia} alt="" width="300px" />
               </div>
               <div>
