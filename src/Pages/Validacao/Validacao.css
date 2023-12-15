@@ -1,5 +1,70 @@
-.contProblema h2{
+.contValidacao h2{
     color: #151a5f;
     text-align: center;
     margin-top: 2rem;
+}
+
+.imgVali{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.imgVali p{
+    width: 85%;
+    text-align: center;
+}
+.ValidaSolu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ValidaSolu p{
+width: 85%;
+text-align: center;
+margin-top: 0.5rem;
+}
+.contValiGrafico{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 3rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    width: 85%;
+    
+}
+.contValiGrafico li{
+    font-weight: bold;
+}
+
+.valiTecnica {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.valiTecnica p{
+    font-weight: bold;
+}
+.contImp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Implementar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    text-align: center;
+    width: 85%;
+    padding-bottom: 3rem;
+}
+
+.Implementar p{
+    margin-top: 1rem;
+    font-size: 15px;
 }
