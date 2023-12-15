@@ -71,3 +71,14 @@ margin-top: 0.5rem;
 .imgNet{
     margin-top: 2rem;
 }
+.Soluvalid1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Ulvalid1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}

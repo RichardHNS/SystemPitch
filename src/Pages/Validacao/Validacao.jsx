@@ -5,6 +5,9 @@ import Mercado from "/src/assets/Mercado.png";
 import Tecnica from "/src/assets/RespostaTecnica.jpeg";
 import Mvp from "/src/assets/Mvp1.png";
 import Network from "/src/assets/Network.png";
+import Prevencao from "/src/assets/Prevencao.png";
+import Possibilidade from "/src/assets/Possibilidade1.png";
+import Disposto from "/src/assets/Disposto.png";
 
 const Validacao = () => {
   return (
@@ -19,31 +22,26 @@ const Validacao = () => {
             EPIs. Além disso, o setor está em 4° dentre as empresas que mais
             fecham no país (fonte: SEBRAE, 2016)
           </p>
-          <div className="">
-            <ul>
-              <li></li>
-              <li></li>
-            </ul>
-          </div>
         </div>
         <div className="ValidaSolu">
           <h2>Validação da solução</h2>
+
           <p>
             Criamos um formulário para para validar nossa Solução, abaixo os
             dados apurados:
           </p>
-          <div className="contValiGrafico">
-            <ul>
-              <li></li>
-              <img src="" alt="" />
-              <li></li>
-              <img src="" alt="" />
-              <li>
-                Foi citado se as empresas estavam disposta a dialogar sobre
-                implementação da solução:
-              </li>
-              <img src="" alt="" />
+          <div className="Soluvalid1">
+            <ul className="Ulvalid1">
+              <img src={Disposto} alt="" width="200px" />
+              <img src={Possibilidade} alt="" width="200px" />
             </ul>
+          </div>
+          <h4></h4>
+          <div className="contValiGrafico">
+            <p>
+              Foi citado se as empresas estavam disposta a dialogar sobre
+              implementação da solução:
+            </p>
           </div>
 
           <div className="valiTecnica">
