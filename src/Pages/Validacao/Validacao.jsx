@@ -37,12 +37,7 @@ const Validacao = () => {
             </ul>
           </div>
           <h4></h4>
-          <div className="contValiGrafico">
-            <p>
-              Foi citado se as empresas estavam disposta a dialogar sobre
-              implementação da solução:
-            </p>
-          </div>
+          
 
           <div className="valiTecnica">
             <p>

@@ -44,6 +44,7 @@ margin-top: 0.5rem;
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 2rem;
 }
 .valiTecnica p{
     font-weight: bold;
