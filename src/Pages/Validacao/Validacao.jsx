@@ -36,9 +36,6 @@ const Validacao = () => {
               <img src={Possibilidade} alt="" width="200px" />
             </ul>
           </div>
-          <h4></h4>
-          
-
           <div className="valiTecnica">
             <p>
               {" "}
