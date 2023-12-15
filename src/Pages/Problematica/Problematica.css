@@ -3,7 +3,6 @@
     flex-direction: column;
     align-items: center;
     background-color: #151a5f;
-    padding-bottom: 2rem;
 }
 .contProblema h2{
     color: white !important;
@@ -13,7 +12,10 @@
 .ProbH2{
     color: white !important;
 }
+.ContentUl li{
+    margin-left: 1.5rem;
 
+}
 .Acidente{
     display: flex;
     flex-direction: column;
@@ -30,4 +32,18 @@
     padding-left: 2rem;
     padding-right: 2rem;
     
+}
+.Smartlab{
+    color: white;
+    text-decoration: underline;
+}
+.Dados{
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+}
+.Dados p{
+    margin-bottom: 1rem;
+}
+.imgAcidente{
+    border-radius: 1rem;
 }

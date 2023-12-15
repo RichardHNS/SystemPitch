@@ -1,9 +1,11 @@
 
 
-.TextSolucao h2{
+.titleSolu{
     color: #151a5f !important;
     text-align: center;
-    margin-top: 2rem;
+    padding-top: 2rem;
+    font-size: 1.7rem;
+    margin-bottom: 1rem;
     
 }
 

@@ -11,7 +11,7 @@ const Solucao = () => {
       <NavBar />
       <div className="contProblema">
         <div className="TextSolucao">
-          <h2>Qual a nossa solução?</h2>
+          <h1 className="titleSolu">Qual a nossa solução?</h1>
           <img
             src={Automacao}
             alt=""
