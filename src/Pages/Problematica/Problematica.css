@@ -69,7 +69,7 @@
     text-align: center;
     margin-top: 1rem;
     padding-left: 2rem;
-    padding-right: 2rem;
+    padding-right: 1rem;
 }
 .Q1{
     margin-top: 1rem;
@@ -80,7 +80,7 @@
     margin-bottom: 1rem;
 }
 .Q1 img{
-    margin: 0 auto;
+    margin-left: 1rem;
 }
 
 .Q2{
@@ -89,10 +89,18 @@
 .Q2 h5 {
     margin-bottom: 1rem;
 }
+.Q2 img{
+    margin-left: 1.6rem;
+}
+
 
 .Q3{
     margin-top: 2rem;
 }
 .Q3 h5 {
     margin-bottom: 1rem;
+}
+
+.Q3 img{
+    margin-left: 1rem;
 }
