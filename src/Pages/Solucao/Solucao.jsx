@@ -27,19 +27,21 @@ const Solucao = () => {
         <div className="Como">
           <h3>Como iremos fazer isso ?</h3>
           <div className="PComo">
-            <p>
+            <ul>
+            <li>
               Criação de um sistema de controle de Epi's simples e intuitivo
               para que todos consiga utilizar de maneira produtiva e dinâmica.
-            </p>
-            <p>
+            </li>
+            <li>
               Suporte Personalizado feito por profissional de SST para
               implementação de cultura de segurança na empresa;
-            </p>
-            <p>
+            </li>
+            <li>
               Utilização de tokens em locais estratégicos antes dos locais de
               trabalho para validação da utilização de EPI's pelo Funcionarios;
-            </p>
-            <p>Uma gestão simples dos dados pelo gestor.</p>
+            </li>
+            <li>Uma gestão simples dos dados pelo gestor.</li>
+            </ul>
           </div>
         </div>
         <div className="contValor">

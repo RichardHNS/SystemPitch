@@ -1,7 +1,7 @@
 import React from "react";
 import NavBar from "../../Components/NavBar/NavBar";
 import "./Problematica.css";
-import Acidente from "/src/assets/Acidente.png";
+import Acidente from "/src/assets/Acidente.jpg";
 import Reclamacao from "/src/assets/Reclamacao.png"
 import Desafios from "/src/assets/Desafios.png"
 import Eficacia from "/src/assets/Eficacia.png"

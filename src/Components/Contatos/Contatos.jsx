@@ -15,7 +15,7 @@ const Contatos = () => {
               <a
                 href="https://mail.google.com/mail/?view=cm&fs=1&to=epicontrol.sst@gmail.com.com"
                 target="_blank">
-                epicontrol@gmail.com
+                epicontrol.sst@gmail.com
               </a>
             </div>
             <div>
