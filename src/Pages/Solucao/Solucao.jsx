@@ -18,19 +18,19 @@ const Solucao = () => {
             width="200px"
           />
           <p>
-            Sistema Tecnólogo e inovador que simplifica o registro,
+            Sistema tecnológico e inovador que simplifica o registro,
             monitoramento e controle dos EPI's, além de suporte personalizado
-            por profissional de SST, Promovendo ações para fomentar a cultura de
+            por um profissional de SST, promovendo ações para fomentar a cultura de
             segurança nas empresas.
           </p>
         </div>
         <div className="Como">
-          <h3>Como iremos fazer isso ?</h3>
+          <h3>Como iremos fazer isso?</h3>
           <div className="PComo">
             <ul>
             <li>
-              Criação de um sistema de controle de Epi's simples e intuitivo
-              para que todos consiga utilizar de maneira produtiva e dinâmica.
+              Criação de um sistema de controle de EPI's simples e intuitivo
+              para que todos possam utilizar de maneira produtiva e dinâmica.
             </li>
             <li>
               Suporte Personalizado feito por profissional de SST para
@@ -38,7 +38,7 @@ const Solucao = () => {
             </li>
             <li>
               Utilização de tokens em locais estratégicos antes dos locais de
-              trabalho para validação da utilização de EPI's pelo Funcionarios;
+              trabalho para validação através de IA da utilização de EPI's pelo funcionarios;
             </li>
             <li>Uma gestão simples dos dados pelo gestor.</li>
             </ul>
