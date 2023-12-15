@@ -51,7 +51,6 @@ const Solucao = () => {
             acidentes.
           </p>
         </div>
-        <Contatos />
       </div>
     </>
   );

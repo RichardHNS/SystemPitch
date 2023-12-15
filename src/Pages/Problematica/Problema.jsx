@@ -2,8 +2,9 @@ import React from "react";
 import NavBar from "../../Components/NavBar/NavBar";
 import "./Problematica.css";
 import Acidente from "/src/assets/Acidente.png";
-import Contatos from "../../Components/Contatos/Contatos";
-
+import Reclamacao from "/src/assets/Reclamacao.png"
+import Desafios from "/src/assets/Desafios.png"
+import Eficacia from "/src/assets/Eficacia.png"
 const Problema = () => {
   return (
     <>
@@ -41,6 +42,25 @@ const Problema = () => {
               </li>
             </ul>
           </div>
+          <div className="PesqValida">
+              <p className="PTitle">Formulario do problema</p>
+              <p className="PForm">Criamos um formulario para a validação do problema, Abaixo os dados apurados:</p>
+              <div className="Q1">
+                <h5>Reclamações mais frequentes ouvidas pelos gestores:</h5>
+                <img src={Reclamacao} alt="" width="300px" />
+              </div>
+              <div className="Q2">
+              <h5>Maiores desafios na área de Segurança no trabalho:</h5>
+                <img src={Desafios} alt="" width="300px" />
+              </div>
+              <div className="Q3">
+              <h5>Eficacia de um controle de Epis na prevenção de Acidentes:</h5>
+                <img src={Eficacia} alt="" width="300px" />
+              </div>
+              <div>
+                
+              </div>
+            </div>
         </div>
       </div>
     </>

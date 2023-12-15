@@ -20,16 +20,19 @@ width: 80%;
 }
 .Title a{
   margin-top: 1rem;
-  padding: 1rem 3rem;
+  padding: 1rem 3.2rem;
   border-radius: 1rem;
   background-color: rgb(16, 170, 16);
   color: white;
   font-weight: bold;
+  
 }
 .Title span{
   color: red;
   font-weight: bold;
+  text-align: center;
   font-size: 12px;
+  width: 80%;
 }
 .LogoTitle{
   display: flex;

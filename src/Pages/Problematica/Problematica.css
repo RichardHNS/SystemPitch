@@ -38,12 +38,61 @@
     text-decoration: underline;
 }
 .Dados{
-    padding-left: 2rem;
-    padding-bottom: 2rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
 }
 .Dados p{
     margin-bottom: 1rem;
 }
 .imgAcidente{
     border-radius: 1rem;
+}
+.PesqValida{
+    display: flex;
+    flex-direction: column;
+    
+    margin-top: 1rem;
+    background-color: white;
+    color: black;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    
+}
+.PesqValida .PTitle{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.4rem;
+    margin-top: 2rem;
+}
+.PForm{
+    text-align: center;
+    margin-top: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.Q1{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+.Q1 h5 {
+    margin-bottom: 1rem;
+}
+.Q1 img{
+    margin: 0 auto;
+}
+
+.Q2{
+    margin-top: 2rem;
+}
+.Q2 h5 {
+    margin-bottom: 1rem;
+}
+
+.Q3{
+    margin-top: 2rem;
+}
+.Q3 h5 {
+    margin-bottom: 1rem;
 }
